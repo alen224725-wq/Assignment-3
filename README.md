@@ -1,1 +1,1 @@
-username and password for MongoDB are hidden inside the env file which is not uploaded for security reasons
+For security purposes, the MongoDB credentials are stored in a hidden environment file that is excluded from uploads.
